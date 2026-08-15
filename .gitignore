@@ -1,0 +1,6 @@
+venv/
+embeddings/
+__pycache__/
+*.pyc
+attendance_*.csv
+test_image.jpg
